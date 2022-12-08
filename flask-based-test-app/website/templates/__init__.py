@@ -5,3 +5,5 @@ def create_app():
     app.config['SECRET_KEY'] = 'Something-Something-Something'
 
     return app
+
+    
